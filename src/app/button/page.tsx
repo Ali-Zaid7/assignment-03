@@ -1,5 +1,3 @@
-import React from 'react'
-
 const Button = () => {
   return (
     <div>Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde harum, veritatis mollitia adipisci illum enim exercitationem deserunt quia ipsam voluptatibus cupiditate praesentium reiciendis non sed autem optio, corrupti aperiam doloribus.
